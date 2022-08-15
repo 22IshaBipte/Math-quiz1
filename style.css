@@ -1,0 +1,14 @@
+body{
+    background-color: lightpink;
+    text-align: center;
+    font-family: cursive;
+}
+
+.login_div1,.login_div2{
+    background-color: palevioletred;
+    font-family: cursive;
+    float: none;
+    padding: 25px;
+    margin-bottom: 30px;
+}
+
